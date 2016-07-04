@@ -42,4 +42,5 @@ for (var i = 0; i < newSetlists.length; ++i) {
 var elem = document.createElement("DIV");
 elem.id = "extracted";
 elem.style.marginTop = "500px";
-elem.innerHTML = html; document.body.appendChild(elem);
+elem.innerHTML = html;
+document.body.appendChild(elem);
