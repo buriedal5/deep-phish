@@ -1,3 +1,6 @@
+if (document.body.lastChild.id == "extracted") {
+  document.body.removeChild(document.body.lastChild);
+}
 var newSetlists = document.getElementsByClassName("setlist");
 var html = "";
 for (var i = 0; i < newSetlists.length; ++i) {
@@ -21,5 +24,7 @@ for (var i = 0; i < newSetlists.length; ++i) {
   }
 }
 var elem = document.createElement("DIV");
-elem.style.marginTop = "100px";
-elem.innerHTML = html; document.body.appendChild(elem);
+elem.id = "extracted";
+elem.style.marginTop = "500px";
+elem.innerHTML = html;
+document.body.appendChild(elem);
