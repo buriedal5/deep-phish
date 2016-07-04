@@ -1,0 +1,35 @@
+12/31/2002
+Set 1
+http://phish.net/song/piper
+http://phish.net/song/guyute
+http://phish.net/song/nicu
+http://phish.net/song/horn
+http://phish.net/song/wilson
+http://phish.net/song/mound
+http://phish.net/song/the-squirming-coil
+<into>
+http://phish.net/song/david-bowie
+Set 2
+http://phish.net/song/waves
+<into>
+http://phish.net/song/divided-sky
+http://phish.net/song/lawn-boy
+http://phish.net/song/carini
+http://phish.net/song/rift
+http://phish.net/song/harry-hood
+<into>
+http://phish.net/song/character-zero
+Set 3
+http://phish.net/song/sample-in-a-jar
+http://phish.net/song/seven-below
+<into>
+http://phish.net/song/auld-lang-syne
+<into>
+http://phish.net/song/runaway-jim
+<segue>
+http://phish.net/song/time-loves-a-hero
+http://phish.net/song/taste
+http://phish.net/song/strange-design
+http://phish.net/song/walls-of-the-cave
+Encore
+http://phish.net/song/wading-in-the-velvet-sea

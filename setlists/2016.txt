@@ -20,6 +20,7 @@ http://phish.net/song/fuego
 http://phish.net/song/slave-to-the-traffic-light
 Encore
 http://phish.net/song/farmhouse
+
 01/02/2016
 Set 1
 http://phish.net/song/your-pet-cat
@@ -42,6 +43,7 @@ http://phish.net/song/you-enjoy-myself
 Encore
 http://phish.net/song/the-lizards
 http://phish.net/song/tweezer-reprise
+
 01/15/2016
 Set 1
 http://phish.net/song/a-song-i-heard-the-ocean-sing
@@ -65,6 +67,7 @@ http://phish.net/song/possum
 http://phish.net/song/shine-a-light
 Encore
 http://phish.net/song/rock-and-roll
+
 01/16/2016
 Set 1
 http://phish.net/song/camel-walk
@@ -88,6 +91,7 @@ http://phish.net/song/julius
 http://phish.net/song/harry-hood
 Encore
 http://phish.net/song/character-zero
+
 01/17/2016
 Set 1
 http://phish.net/song/mexican-cousin
@@ -112,6 +116,7 @@ http://phish.net/song/weekapaug-groove
 http://phish.net/song/slave-to-the-traffic-light
 Encore
 http://phish.net/song/the-ocean
+
 06/22/2016
 Set 1
 http://phish.net/song/pigtail
@@ -141,6 +146,7 @@ http://phish.net/song/bathtub-gin
 Encore
 http://phish.net/song/water-in-the-sky
 http://phish.net/song/character-zero
+
 06/24/2016
 Set 1
 http://phish.net/song/sample-in-a-jar
@@ -165,6 +171,7 @@ http://phish.net/song/loving-cup
 Encore
 http://phish.net/song/space-oddity
 http://phish.net/song/run-like-an-antelope
+
 06/25/2016
 Set 1
 http://phish.net/song/the-moma-dance
@@ -189,6 +196,7 @@ http://phish.net/song/harry-hood
 http://phish.net/song/tweezer-reprise
 Encore
 http://phish.net/song/i-am-the-walrus
+
 06/26/2016
 Set 1
 http://phish.net/song/my-friend-my-friend
@@ -215,6 +223,7 @@ http://phish.net/song/shade
 http://phish.net/song/possum
 Encore
 http://phish.net/song/rock-and-roll
+
 06/28/2016
 Set 1
 http://phish.net/song/wilson
@@ -240,6 +249,7 @@ http://phish.net/song/slave-to-the-traffic-light
 http://phish.net/song/you-enjoy-myself
 Encore
 http://phish.net/song/quinn-the-eskimo
+
 06/29/2016
 Set 1
 http://phish.net/song/wolfmans-brother
@@ -266,6 +276,7 @@ http://phish.net/song/dem-bones
 Encore
 http://phish.net/song/dear-prudence
 http://phish.net/song/harry-hood
+
 07/01/2016
 Set 1
 http://phish.net/song/stealing-time-from-the-faulty-plan
@@ -294,6 +305,7 @@ http://phish.net/song/also-sprach-zarathustra
 http://phish.net/song/fire
 Encore
 http://phish.net/song/character-zero
+
 07/02/2016
 Set 1
 http://phish.net/song/crowd-control
@@ -320,3 +332,30 @@ http://phish.net/song/a-day-in-the-life
 Encore
 http://phish.net/song/bouncing-around-the-room
 http://phish.net/song/run-like-an-antelope
+
+07/03/2016
+Set 1
+http://phish.net/song/the-wedge
+http://phish.net/song/heavy-things
+http://phish.net/song/tube
+http://phish.net/song/sugar-shack
+http://phish.net/song/lawn-boy
+http://phish.net/song/sparkle
+http://phish.net/song/sample-in-a-jar
+http://phish.net/song/its-ice
+http://phish.net/song/guelah-papyrus
+http://phish.net/song/ocelot
+http://phish.net/song/scent-of-a-mule
+http://phish.net/song/possum
+Set 2
+http://phish.net/song/soul-shakedown-party
+http://phish.net/song/the-moma-dance
+http://phish.net/song/twist
+http://phish.net/song/joy
+http://phish.net/song/breath-and-burning
+http://phish.net/song/axilla
+http://phish.net/song/theme-from-the-bottom
+http://phish.net/song/harry-hood
+http://phish.net/song/show-of-life
+Encore
+http://phish.net/song/rock-and-roll

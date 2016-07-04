@@ -1,0 +1,176 @@
+3/04/1985
+Set 1
+http://phish.net/song/anarchy
+http://phish.net/song/camel-walk
+http://phish.net/song/fire-up-the-ganja
+http://phish.net/song/skippy-the-wondermouse
+http://phish.net/song/in-the-midnight-hour
+
+03/08/1985
+Set 1
+http://phish.net/song/sneakin-sally-through-the-alley
+
+03/16/1985
+Set 1
+http://phish.net/song/alumni-blues
+http://phish.net/song/skippy-the-wondermouse
+http://phish.net/song/bertha
+http://phish.net/song/jam
+http://phish.net/song/mikes-song
+
+04/06/1985
+Set 1
+http://phish.net/song/i-am-hydrogen
+http://phish.net/song/dont-want-you-no-more
+http://phish.net/song/cities
+http://phish.net/song/wild-child
+http://phish.net/song/slave-to-the-traffic-light
+http://phish.net/song/jam
+http://phish.net/song/alumni-blues
+<into>
+http://phish.net/song/letter-to-jimmy-page
+<into>
+http://phish.net/song/alumni-blues
+<into>
+http://phish.net/song/mikes-song
+<into>
+http://phish.net/song/daves-energy-guide
+http://phish.net/song/big-leg-emma
+http://phish.net/song/revolution
+http://phish.net/song/anarchy
+http://phish.net/song/i-wish
+http://phish.net/song/camel-walk
+http://phish.net/song/run-like-an-antelope
+Set 2
+http://phish.net/song/mcgrupp-and-the-watchful-hosemasters
+<into>
+http://phish.net/song/makisupa-policeman
+Set 3
+http://phish.net/song/quinn-the-eskimo
+
+05/03/1985
+Set 1
+http://phish.net/song/slave-to-the-traffic-light
+http://phish.net/song/mikes-song
+<into>
+http://phish.net/song/daves-energy-guide
+http://phish.net/song/big-leg-emma
+Set 2
+http://phish.net/song/alumni-blues
+http://phish.net/song/wild-child
+http://phish.net/song/cant-you-hear-me-knocking
+http://phish.net/song/jam
+<segue>
+http://phish.net/song/cities
+http://phish.net/song/bring-it-on-home
+Set 3
+http://phish.net/song/scarlet-begonias
+<into>
+http://phish.net/song/eyes-of-the-world
+<segue>
+http://phish.net/song/whipping-post
+<segue>
+http://phish.net/song/mcgrupp-and-the-watchful-hosemasters
+<into>
+http://phish.net/song/makisupa-policeman
+<into>
+http://phish.net/song/run-like-an-antelope
+<segue>
+http://phish.net/song/the-other-one
+Encore
+http://phish.net/song/anarchy
+
+05/31/1985
+Set 1
+http://phish.net/song/big-leg-emma
+
+09/27/1985
+Set 1
+http://phish.net/song/low-rider
+<into>
+http://phish.net/song/big-leg-emma
+http://phish.net/song/wild-child
+http://phish.net/song/camel-walk
+http://phish.net/song/possum
+http://phish.net/song/fire
+http://phish.net/song/slave-to-the-traffic-light
+http://phish.net/song/in-the-midnight-hour
+Set 2
+http://phish.net/song/melt-the-guns
+<into>
+http://phish.net/song/tv-theme
+http://phish.net/song/sneakin-sally-through-the-alley
+http://phish.net/song/prep-school-hippie
+Set 3
+http://phish.net/song/mikes-song
+<into>
+http://phish.net/song/daves-energy-guide
+http://phish.net/song/mcgrupp-and-the-watchful-hosemasters
+<into>
+http://phish.net/song/cities
+http://phish.net/song/anarchy
+http://phish.net/song/revolution
+http://phish.net/song/anarchy
+http://phish.net/song/revolution
+http://phish.net/song/makisupa-policeman
+
+10/17/1985
+Set 1
+http://phish.net/song/tv-theme
+http://phish.net/song/alumni-blues
+<into>
+http://phish.net/song/letter-to-jimmy-page
+<into>
+http://phish.net/song/alumni-blues
+<into>
+http://phish.net/song/mikes-song
+http://phish.net/song/daves-energy-guide
+http://phish.net/song/revolution
+http://phish.net/song/anarchy
+http://phish.net/song/camel-walk
+http://phish.net/song/run-like-an-antelope
+http://phish.net/song/mcgrupp-and-the-watchful-hosemasters
+
+10/30/1985
+Set 1
+http://phish.net/song/harry-hood
+http://phish.net/song/dog-log
+<into>
+http://phish.net/song/possum
+http://phish.net/song/slave-to-the-traffic-light
+http://phish.net/song/sneakin-sally-through-the-alley
+http://phish.net/song/i-wish
+http://phish.net/song/revival
+http://phish.net/song/alumni-blues
+<into>
+http://phish.net/song/letter-to-jimmy-page
+<into>
+http://phish.net/song/alumni-blues
+http://phish.net/song/prep-school-hippie
+http://phish.net/song/skippy-the-wondermouse
+
+11/14/1985
+Set 1
+http://phish.net/song/slave-to-the-traffic-light
+http://phish.net/song/hurricane
+http://phish.net/song/makisupa-policeman
+<into>
+http://phish.net/song/piggies
+<segue>
+http://phish.net/song/makisupa-policeman
+<segue>
+http://phish.net/song/drums
+<into>
+http://phish.net/song/alumni-blues
+<into>
+http://phish.net/song/dear-mrs-reagan
+
+11/23/1985
+Set 1
+http://phish.net/song/wild-thing
+Set 2
+http://phish.net/song/mikes-song
+http://phish.net/song/whipping-post
+http://phish.net/song/run-like-an-antelope
+<segue>
+http://phish.net/song/daves-energy-guide
